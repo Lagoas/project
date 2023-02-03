@@ -1,4 +1,5 @@
 nome
 senha
+confirmar a senha
 entrar
 recuperar senha
